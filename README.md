@@ -10,7 +10,9 @@
 
 ## Description
 
-_Duration: 2 Week Sprint_
+_Server Side Calculator_
+
+This project took me about 10 hours to complete.  The Server Side Calculator is a project that allows users to input numbers and operators to solve a basic math problem.  
 
 Directly above this is how long it took you to develop the project. Your project description goes here. What problem did you solve? How did you solve it? 
 
